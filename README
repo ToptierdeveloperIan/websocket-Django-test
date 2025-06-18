@@ -1,0 +1,16 @@
+# Django Channels WebSocket Project
+
+A Django backend project with WebSocket support using Django Channels, Redis, and ASGI. Includes a test client written in Python to simulate real-time communication without a frontend.
+
+---
+
+## 🔧 Features
+
+- WebSocket handling with `Django Channels`
+- Redis-powered channel layer for broadcasting and scaling
+- Python client (`websockets`) for testing backend without JavaScript
+
+---
+
+
+
